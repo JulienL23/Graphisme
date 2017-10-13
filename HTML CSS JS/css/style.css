@@ -1,0 +1,473 @@
+.a{
+    background: black;
+    width: 275px;
+    height: 5px;
+    position: absolute;
+    top: 104px;
+    left: 629px;
+    transform: rotate(172deg);
+}
+.b{
+    background: black;
+    width: 40px;
+    height: 5px;
+    position: absolute;
+    top: 100px;
+    left: 867px;
+    transform: rotate(135deg);
+}
+.c{
+    background: black;
+    width: 57px;
+    height: 5px;
+    position: absolute;
+    top: 148px;
+    left: 613px;
+    transform: rotate(69deg);
+}
+.d{
+    background: black;
+    width: 74px;
+    height: 5px;
+    position: absolute;
+    top: 210px;
+    left: 615px;
+    transform: rotate(88deg);
+}
+.e{
+    background: black;
+    width: 30px;
+    height: 5px;
+    position: absolute;
+    top: 250px;
+    left: 652px;
+    transform: rotate(198deg);
+}
+.f{
+    background: black;
+    width: 115px;
+    height: 5px;
+    position: absolute;
+    top: 153px;
+    left: 858px;
+    transform: rotate(225deg);
+}
+.g{
+    background: black;
+    width: 16px;
+    height: 5px;
+    position: absolute;
+    top: 199px;
+    left: 946px;
+    transform: rotate(129deg);
+}
+.h{
+    background: black;
+    width: 24px;
+    height: 5px;
+    position: absolute;
+    top: 199px;
+    left: 927px;
+    transform: rotate(201deg);
+}
+.i{
+    background: black;
+    width: 137px;
+    height: 5px;
+    position: absolute;
+    top: 241px;
+    left: 677px;
+    transform: rotate(168deg);
+}
+.j{
+    background: black;
+    width: 137px;
+    height: 5px;
+    position: absolute;
+    top: 209px;
+    left: 806px;
+    transform: rotate(164deg);
+}
+.k{
+    background: black;
+    width: 45px;
+    height: 5px;
+    position: absolute;
+    top: 267px;
+    left: 629px;
+    transform: rotate(96deg);
+}
+.l{
+    background: black;
+    width: 20px;
+    height: 5px;
+    position: absolute;
+    top: 298px;
+    left: 641px;
+    transform: rotate(81deg);
+}
+.m{
+    background: black;
+    width: 17px;
+    height: 5px;
+    position: absolute;
+    top: 307px;
+    left: 651px;
+    transform: rotate(0deg);
+}
+.n{
+    background: black;
+    width: 15px;
+    height: 5px;
+    position: absolute;
+    top: 302px;
+    left: 658px;
+    transform: rotate(83deg);
+}
+.o{
+    background: black;
+    width: 19px;
+    height: 5px;
+    position: absolute;
+    top: 287px;
+    left: 659px;
+    transform: rotate(116deg);
+}
+.p{
+    background: black;
+    width: 25px;
+    height: 5px;
+    position: absolute;
+    top: 267px;
+    left: 662px;
+    transform: rotate(100deg);
+}
+.q{
+    background: black;
+    width: 75px;
+    height: 5px;
+    position: absolute;
+    top: 343px;
+    left: 635px;
+    transform: rotate(80deg);
+}
+.r{
+    background: black;
+    width: 44px;
+    height: 5px;
+    position: absolute;
+    top: 397px;
+    left: 670px;
+    transform: rotate(52deg);
+}
+.s{
+    background: black;
+    width: 44px;
+    height: 5px;
+    position: absolute;
+    top: 423px;
+    left: 703px;
+    transform: rotate(25deg);
+}
+.t{
+    background: black;
+    width: 131px;
+    height: 5px;
+    position: absolute;
+    top: 446px;
+    left: 742px;
+    transform: rotate(12deg);
+}
+.u{
+    background: black;
+    width: 17px;
+    height: 5px;
+    position: absolute;
+    top: 456px;
+    left: 868px;
+    transform: rotate(155deg);
+}
+.v{
+    background: black;
+    width: 79px;
+    height: 5px;
+    position: absolute;
+    top: 422px;
+    left: 867px;
+    transform: rotate(128deg);
+}
+.w{
+    background: black;
+    width: 55px;
+    height: 5px;
+    position: absolute;
+    top: 368px;
+    left: 906px;
+    transform: rotate(101deg);
+
+}
+.x{
+    background: black;
+    width: 95px;
+    height: 5px;
+    position: absolute;
+    top: 272px;
+    left: 732px;
+    transform: rotate(-5deg);
+
+}
+.y{
+    background: black;
+    width: 95px;
+    height: 5px;
+    position: absolute;
+    top: 320px;
+    left: 731px;
+    transform: rotate(-5deg);
+
+}
+.z{
+    background: black;
+    width: 95px;
+    height: 5px;
+    position: absolute;
+    top: 261px;
+    left: 861px;
+    transform: rotate(-5deg);
+
+}
+.aa{
+    background: black;
+    width: 95px;
+    height: 5px;
+    position: absolute;
+    top: 310px;
+    left: 861px;
+    transform: rotate(-5deg);
+
+}
+.bb{
+    background: black;
+    width: 49px;
+    height: 5px;
+    position: absolute;
+    top: 289px;
+    left: 839px;
+    transform: rotate(91deg);
+}
+.cc{
+    background: black;
+    width: 49px;
+    height: 5px;
+    position: absolute;
+    top: 281px;
+    left: 929px;
+    transform: rotate(91deg);
+}
+.dd{
+    background: black;
+    width: 49px;
+    height: 5px;
+    position: absolute;
+    top: 299px;
+    left: 710px;
+    transform: rotate(91deg);
+}
+.ee{
+    background: black;
+    width: 49px;
+    height: 5px;
+    position: absolute;
+    top: 292px;
+    left: 800px;
+    transform: rotate(91deg);
+}
+.ff{
+    background: black;
+    width: 43px;
+    height: 10px;
+    position: absolute;
+    top: 267px;
+    left: 823px;
+    transform: rotate(175deg);
+}
+.gg{
+    background: black;
+    width: 63px;
+    height: 7px;
+    position: absolute;
+    top: 268px;
+    left: 673px;
+    transform: rotate(15deg);
+}
+.hh{
+    background: black;
+    width: 35px;
+    height: 5px;
+    position: absolute;
+    top: 325px;
+    left: 923px;
+    transform: rotate(95deg);
+}
+.ii{
+    background: black;
+    width: 61px;
+    height: 5px;
+    position: absolute;
+    top: 227px;
+    left: 902px;
+    transform: rotate(83deg);
+}
+.jj{
+    background: black;
+    width: 113px;
+    height: 5px;
+    position: absolute;
+    top: 361px;
+    left: 673px;
+    transform: rotate(194deg);
+}
+.kk{
+    background: black;
+    width: 61px;
+    height: 5px;
+    position: absolute;
+    top: 377px;
+    left: 781px;
+    transform: rotate(6deg);
+}
+.ll{
+    background: black;
+    width: 93px;
+    height: 5px;
+    position: absolute;
+    top: 378px;
+    left: 841px;
+    transform: rotate(-2deg);
+}
+.mm{
+    background: black;
+    width: 15px;
+    height: 5px;
+    position: absolute;
+    top: 324px;
+    left: 851px;
+    transform: rotate(83deg);
+}
+.nn{
+    background: black;
+    width: 19px;
+    height: 5px;
+    position: absolute;
+    top: 339px;
+    left: 853px;
+    transform: rotate(72deg);
+}
+.oo{
+    background: black;
+    width: 26px;
+    height: 5px;
+    position: absolute;
+    top: 345px;
+    left: 840px;
+    transform: rotate(7deg);
+}
+.pp{
+    background: black;
+    width: 58px;
+    height: 5px;
+    position: absolute;
+    top: 406px;
+    left: 807px;
+    transform: rotate(2deg);
+}
+.qq{
+    background: black;
+    width: 26px;
+    height: 5px;
+    position: absolute;
+    top: 414px;
+    left: 840px;
+    transform: rotate(-34deg);
+}
+.rr{
+    background: black;
+    width: 38px;
+    height: 5px;
+    position: absolute;
+    top: 413px;
+    left: 808px;
+    transform: rotate(22deg);
+}
+.ss{
+    background: black;
+    width: 18px;
+    height: 3px;
+    position: absolute;
+    top: 265px;
+    left: 653px;
+    transform: rotate(-68deg);
+}
+.uu{
+    background: black;
+    width: 14px;
+    height: 3px;
+    position: absolute;
+    top: 279px;
+    left: 653px;
+    transform: rotate(-98deg);
+}
+.vv{
+    background: black;
+    width: 33px;
+    height: 7px;
+    position: absolute;
+    top: 294px;
+    left: 766px;
+    transform: rotate(-238deg);
+}
+.ww{
+    background: black;
+    width: 33px;
+    height: 7px;
+    position: absolute;
+    top: 294px;
+    left: 766px;
+    transform: rotate(-147deg);
+}
+.xx{
+    background: black;
+    width: 33px;
+    height: 7px;
+    position: absolute;
+    top: 283px;
+    left: 895px;
+    transform: rotate(-238deg);
+}
+.yy{
+    background: black;
+    width: 33px;
+    height: 7px;
+    position: absolute;
+    top: 283px;
+    left: 895px;
+    transform: rotate(-147deg);
+}
+.zz{
+    background: black;
+    width: 43px;
+    height: 7px;
+    position: absolute;
+    top: 253px;
+    left: 767px;
+    transform: rotate(-171deg);
+}
+.zzz{
+    background: black;
+    width: 43px;
+    height: 7px;
+    position: absolute;
+    top: 242px;
+    left: 871px;
+    transform: rotate(-207deg);
+}
